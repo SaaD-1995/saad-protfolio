@@ -6,11 +6,13 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Project from './components/Project';
 import Experienced from './components/Experienced';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <Router>
       <div className="App">
+      <ScrollToTop />
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />

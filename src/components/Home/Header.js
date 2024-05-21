@@ -1,13 +1,20 @@
+import { Link } from "react-router-dom";
+import '../../assets/custom.css'
 function Header(){
     return(
         <>
         <div className="h-full ">
             <section className=" flex justify-center items-center  ">
                 <article>
-                <div className="flex justify-center items-center">
-                    <img class="w-32 h-32 rounded-full" src="/saad.jpeg" alt="Rounded avatar"/>
+                <div className="flex justify-center items-center ">
+                    <img class="w-32 h-32 rounded-full" src="/saadrasool.jpg" alt="Rounded avatar"/>
                 </div>
-                <h1 className="md:text-6xl sm:text-4xl text-3xl pt-5 text-white font-bold text-center lg:mx-52">I do code and make content about it!</h1>
+                    <h1 className="md:text-6xl sm:text-4xl text-3xl pt-5 text-white font-bold text-center lg:mx-52">
+                        I do code and make content&nbsp;
+                        <span className="gradient-text">
+                             about it!
+                        </span>
+                    </h1>
                 <p className="text-base text-center pt-10 text-gray-300 lg:px-52"> 
                 Enthusiastic and skilled front-end web developer with over 2 years of experience in crafting exceptional user experiences and interfaces. 
                 Proficient in JavaScript, HTML5, and CSS, with a strong specialization in Vue.js and React.js. 
@@ -16,9 +23,9 @@ function Header(){
                  Adept at collaborating with cross-functional teams to convert Figma design concepts into interactive and user-friendly web interfaces. Committed to continuous learning and staying updated with the latest industry trends to deliver innovative solutions.
                 </p>
                 <div className="flex justify-center gap-4 mt-10">
-                    <button className="bg-white px-4 py-2 rounded-full text-lg font-medium">
+                    <Link to="/contact" className="bg-white px-4 py-2 rounded-full text-lg font-medium">
                         Get In Touch
-                    </button>
+                    </Link>
                     {/* <button className="border-2 border-white px-4 py-2 rounded-full text-lg text-white font-medium">
                         Download CV
                     </button> */}
