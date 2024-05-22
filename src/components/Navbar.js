@@ -53,13 +53,13 @@ function Navbar() {
                   Project
                 </Link> */}
                 <Link
-                  to="/experienced"
+                  to="/experience"
                   className={`text-white px-2 py-2 mx-3  text-base font-medium ${
-                    location.pathname === '/experienced' ? 'border-b-2 border-white' : ''
+                    location.pathname === '/experience' ? 'border-b-2 border-white' : ''
                   }`}
                   onClick={closeSidebar}
                 >
-                  Experienced
+                  Experience
                 </Link>
                 <Link
                   to="/contact"
@@ -134,13 +134,13 @@ function Navbar() {
                   Project
                 </Link> */}
                 <Link
-                  to="/experienced"
+                  to="/experience"
                   className={`block px-4 py-2 text-xl hover:bg-gray-700 rounded ${
-                    location.pathname === '/experienced' ? 'text-white border-s-2 border-white' : 'text-gray-400'
+                    location.pathname === '/experience' ? 'text-white border-s-2 border-white' : 'text-gray-400'
                   }`}
                   onClick={closeSidebar}
                 >
-                  Experienced
+                  Experience
                 </Link>
                 <Link
                   to="/contact"

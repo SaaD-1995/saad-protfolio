@@ -9,6 +9,9 @@ module.exports = {
         lexend: ['"Lexend Giga"', 'sans-serif'],
         poppins: ['"Poppins"', 'sans-serif'],
       },
+      backgroundImage: {
+        'gradient-to-r': 'linear-gradient(to right, #FF8660, #9A33FF)',
+      },
     },
   },
   plugins: [],

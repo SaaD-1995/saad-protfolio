@@ -9,7 +9,7 @@ function Header(){
                 <div className="flex justify-center items-center ">
                     <img class="w-32 h-32 rounded-full" src="/saadrasool.jpg" alt="Rounded avatar"/>
                 </div>
-                    <h1 className="md:text-6xl sm:text-4xl text-3xl pt-5 text-white font-bold text-center lg:mx-52">
+                    <h1 className="md:text-6xl sm:text-4xl text-4xl pt-5 text-white font-bold text-center mx-20 sm:mx-0 md:mx-10 lg:mx-52 xl:mx-72 ">
                         I do code and make content&nbsp;
                         <span className="gradient-text">
                              about it!
