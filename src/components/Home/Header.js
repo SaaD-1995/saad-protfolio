@@ -40,14 +40,15 @@ function Header(){
                     EXPERIENCE WITH
                 </h2>
                 <div className="flex flex-wrap gap-5 justify-center mt-10">
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/html.webp" alt="HTML"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/css.webp" alt="css"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/bootstrap-5-1.svg" alt="Bootstrap-logo"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/tailwind.webp" alt="tailwind"/>
                     <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/js.webp" alt="js-logo"/>
                     <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/vue-logo-12.webp" alt="Vue-logo"/>
                     <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/logo512.webp" alt="React-logo"/>
                     <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/nuxt.webp" alt="Nuxt"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/git.webp" alt="git"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/html.webp" alt="HTML"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/css.webp" alt="css"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/bootstrap-5-1.svg" alt="Bootstrap-logo"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/tailwind.webp" alt="tailwind"/>
                 </div>
             </section>
         </div>
