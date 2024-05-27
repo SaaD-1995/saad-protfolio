@@ -20,7 +20,7 @@ function Navbar() {
           <div className="flex-1 flex items-center justify-between sm:items-stretch sm:justify-between">
             <div className="flex-shrink-0 flex items-center">
               <Link to="/" className="text-white font-bold">
-                <img className='w-full h-12' src='/saadrasool.png' alt='logo'/>
+                <img className='w-full h-12' src='/saadrasool.webp' alt='logo'/>
               </Link>
             </div>
             <div className="hidden sm:block flex items-center justify-between">

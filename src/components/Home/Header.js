@@ -7,7 +7,7 @@ function Header(){
             <section className=" flex justify-center items-center  ">
                 <article>
                 <div className="flex justify-center items-center ">
-                    <img class="w-32 h-32 rounded-full" src="/saadrasool.jpg" alt="Rounded avatar"/>
+                    <img class="w-32 h-32 rounded-full" src="/saadrasool-image.webp" alt="Rounded avatar"/>
                 </div>
                     <h1 className="md:text-6xl sm:text-4xl text-4xl pt-5 text-white font-bold text-center mx-20 sm:mx-0 md:mx-10 lg:mx-52 xl:mx-72 ">
                         I do code and make content&nbsp;
@@ -40,14 +40,14 @@ function Header(){
                     EXPERIENCE WITH
                 </h2>
                 <div className="flex flex-wrap gap-5 justify-center mt-10">
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/html.png" alt="HTML"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/css.png" alt="css"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/html.webp" alt="HTML"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/css.webp" alt="css"/>
                     <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/bootstrap-5-1.svg" alt="Bootstrap-logo"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/tailwind.png" alt="tailwind"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/js.png" alt="js-logo"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/vue-logo-12.png" alt="Vue-logo"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/logo512.png" alt="React-logo"/>
-                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/nuxt.png" alt="Nuxt"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/tailwind.webp" alt="tailwind"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/js.webp" alt="js-logo"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/vue-logo-12.webp" alt="Vue-logo"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/logo512.webp" alt="React-logo"/>
+                    <img className="w-16 h-16 sm:w-20 sm:h-20  lg:w-20 lg:h-20" src="/nuxt.webp" alt="Nuxt"/>
                 </div>
             </section>
         </div>

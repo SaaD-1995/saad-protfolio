@@ -12,21 +12,21 @@ function Project() {
       id: 0,
       name: "Next Grade",
       link: "https://nxgrade.com/",
-      imageSrc: "/nxgrade.png",
+      imageSrc: "/nxgrade.webp",
       description: `The All-in-One Platform for Educational Assessments. Next Grade is a simple, customizable & smart online testing platform for teachers, students & trainers. Create interactive assessments through online and mobile tests that can help students gauge success & deliver results without a hassle. Technology used: HTML, CSS, Vue.js and Vuetify`
     },
     {
       id: 1,
       name: "Safr Care",
       link: "https://safrcare.com/",
-      imageSrc: "/safrcare.png",
+      imageSrc: "/safrcare.webp",
       description: `An all-in-one platform facilitating medical transportation for patients. Users can create ride requests to reach hospitals, and dedicated rides pick up patients for hospital visits. Developed using HTML, CSS, Vue.js, and Vuetify for seamless and user-friendly interactions.`
     },
     {
       id: 2,
       name: "Omc Global",
       link: "https://omc-global-v3.vercel.app/",
-      imageSrc: "/omcgolobal.png",
+      imageSrc: "/omcgolobal.webp",
       description: `OMC Global offers ride facilities for users to conveniently request rides to their destinations. Whether it's a one-way trip or a round trip, users can easily book their rides. Developed with HTML, CSS, Vue.js, Nuxt.js, storyblok, and Tailwind CSS for user-friendly interaction.`
     },
     {
