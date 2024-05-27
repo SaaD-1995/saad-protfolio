@@ -28,7 +28,15 @@ function Project() {
       link: "https://omc-global-v3.vercel.app/",
       imageSrc: "/omcgolobal.png",
       description: `OMC Global offers ride facilities for users to conveniently request rides to their destinations. Whether it's a one-way trip or a round trip, users can easily book their rides. Developed with HTML, CSS, Vue.js, Nuxt.js, storyblok, and Tailwind CSS for user-friendly interaction.`
+    },
+    {
+      id: 3,
+      name: "Saad Portfolio",
+      link: "https://saad-portfolio-1.netlify.app/",
+      imageSrc: "/portfolio.png",
+      description: `This is my portfolio website using techcnolygy React.js & Tailwind css`
     }
+
   ];
 
   const selectedProject = projects.find(project => project.id === parseInt(id));
