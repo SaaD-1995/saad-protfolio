@@ -15,13 +15,15 @@ function Header(){
                              about it!
                         </span>
                     </h1>
-                <p className="text-base text-center pt-10 text-gray-300 lg:px-52"> 
-                Enthusiastic and skilled front-end web developer with over 2 years of experience in crafting exceptional user experiences and interfaces. 
-                Proficient in JavaScript, HTML5, and CSS, with a strong specialization in Vue.js and React.js. 
-                Demonstrated expertise in developing client-facing landing pages that seamlessly blend creativity and functionality. 
-                Experienced in using modern front-end frameworks and libraries including Nuxt.js, Vuetify, Tailwind CSS, and Bootstrap to deliver high-quality, responsive, and visually appealing web applications.
-                 Adept at collaborating with cross-functional teams to convert Figma design concepts into interactive and user-friendly web interfaces. Committed to continuous learning and staying updated with the latest industry trends to deliver innovative solutions.
-                </p>
+                    <p className="text-base text-center pt-10 text-gray-300 mx-3 sm:mx-5 md:mx-8 lg:mx-10 xl:mx-52">
+                    Enthusiastic and highly skilled front-end web developer with a strong track record of delivering polished, user-focused web applications and interfaces.
+                    I bring hands-on experience in building responsive landing pages, pixel-perfect UI components, and full dashboard layouts — from initial Figma designs through to production deployment.
+                    My core strengths include JavaScript, HTML5, and modern CSS, with deep expertise in Vue.js and React.js frameworks. I also regularly work with Nuxt.js, Vuetify, Tailwind CSS, and Bootstrap to speed development while keeping interfaces accessible and performant.
+                    Beyond static UI work I design and implement robust client-side integrations: REST and GraphQL API integration, real-time updates (WebSockets), and end-to-end data flows between front end and backend services. I am experienced building data-driven dashboards that include interactive charts, tables, filters, and custom visualizations (Chart.js, Recharts, or similar).
+                    I enjoy solving complex UX problems and collaborating with cross-functional teams to convert Figma designs into maintainable, testable, and responsive code. I follow best practices for state management, component architecture, performance optimisation, and accessibility.
+                    Committed to continuous learning, I keep up with the latest industry trends and tooling so I can deliver modern, scalable solutions — whether it’s a lead-generating landing page, a graph-heavy analytics dashboard, or a full product front end ready for production.
+                    </p>
+
                 <div className="flex justify-center gap-4 mt-10">
                     <Link to="/contact" className="bg-white px-4 py-2 rounded-full text-lg font-medium">
                         Get In Touch
@@ -29,7 +31,7 @@ function Header(){
                     {/* <button className="border-2 border-white px-4 py-2 rounded-full text-lg text-white font-medium">
                         Download CV
                     </button> */}
-                    <a href="/saad.pdf" download className="border-2 border-white px-4 py-2 rounded-full text-lg text-white font-medium">
+                    <a href="/saad_rasool.pdf" download className="border-2 border-white px-4 py-2 rounded-full text-lg text-white font-medium">
                         Download CV
                     </a>
                 </div>
