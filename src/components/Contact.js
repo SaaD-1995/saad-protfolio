@@ -4,7 +4,7 @@ import React from 'react';
 import emailjs from "emailjs-com";
 import { generateEmailTemplate } from "../utils/emailTemplate";
 import { useState, useRef } from 'react';
-import { toast, ToastContainer } from "react-toastify";
+import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const ContactForm = () => {
